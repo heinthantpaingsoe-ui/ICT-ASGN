@@ -1,0 +1,118 @@
+.htitle{
+    text-align: center;
+    color: #C2C5AA;
+    background-color: #A68A64;
+    height: 65px auto;
+    width: 500px;
+    border: 2px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 30px auto;
+    box-sizing: border-box;
+    border-radius: 10px;
+    text-align: center;
+}
+.mtitle{
+    text-align: center;
+    color: #C2C5AA;
+    background-color: #A68A64;
+    width: 130px;
+    height: 65px auto;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 15px;
+    margin: 30px auto;
+    box-sizing: border-box;
+    border-radius: 10px;
+    text-align: center;
+}
+.desc{
+    text-align: center;
+    color: #333D29; width: 700px;
+    background-color: #A68A64;
+    width: 500px auto;
+    height: 155px auto;
+    border: 2px solid rgb(0, 0, 0);
+    padding-bottom: 10px;
+    padding-top: 15px;
+    margin: 30px auto;
+    box-sizing: border-box;
+    border-radius: 10px;
+    
+}
+
+.htr:hover{
+    background-color:#215db0;
+    color:#ffffff
+}
+.HomeTable,.htr{
+    text-align: center;
+    border-collapse: collapse;
+    border-bottom: 2px solid black;
+    padding-left: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+    height: 70%;
+    background-color:#A68A64;
+    color: #333D29;
+}
+.MainTable,.mtr,.mtd,.Flag{
+    border: 4px solid black;
+    border-collapse: collapse;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 4px;
+    padding-top: 5px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+.mtr:nth-child(even){
+    background-color: #936639;
+    color: #B6AD90;
+}
+.mtr:nth-child(odd){
+    background-color: #A68A64;
+    color: #582F0E;
+}
+.links{
+    color: #333D29;
+    font-weight: bold;
+}
+.info{
+    text-align: center;
+    margin-left: 47%;
+    background-color: #656D4A;
+    color: #A4AC86;
+}
+
+body{
+    background-color: #A4AC86;
+}
+.images{
+    width: 83%;
+    height: 355px;
+    margin-left: 45%;
+}
+
+.Map{
+    width: 150px;
+    height: 410px;
+    margin-left: 42%;
+}
+.Boxz{
+    margin-left: 24%;
+    border: 3px;
+}
+.buttonz{
+    text-align: center;
+    background-color: #656D4A;
+    color: #A4AC86;
+}
+.home{
+    text-align: center;
+    margin-left: 880px;
+    background-color: #656D4A;
+    color: #A4AC86;
+}
