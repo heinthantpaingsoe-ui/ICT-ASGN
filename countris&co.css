@@ -102,7 +102,7 @@ body{
     margin-left: 42%;
 }
 .Boxz{
-    margin-left: 16%;
+    margin-left: 15%;
     border: 3px;
 }
 .buttonz{
@@ -112,8 +112,9 @@ body{
 }
 .home{
     text-align: center;
-    margin-left: 880px;
+    margin-left: 360;
     background-color: #656D4A;
     color: #A4AC86;
 
 }
+
